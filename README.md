@@ -4,9 +4,10 @@
 - 해당 README에 구현해야 하는 로직, 사용할 라이브러리 등이 작성되어 있습니다
 - ```.ipynb``` 파일이 아닌 ```.py``` 파일로 만들어 주세요
 - 처음부터 Class를 사용하지 않아도 됩니다. 우선 구현한 후, 천천히 Class 연습해봐요!
+- 마감일(일요일)에 몰아쳐서 하지 말고 중간 중간 코드를 올려서 피드백 받기
 
 ## Application List
-- [인스타그램 자동 좋아요](https://github.com/zzsza/python-simple-application/tree/master/01-instagram-auto-like)
-- [이미지 뷰어](https://github.com/zzsza/python-simple-application/tree/master/02-image-viewer)
+- [인스타그램 자동 좋아요](https://github.com/zzsza/python-simple-application/tree/master/01-instagram-auto-like) : 180806 ~ 180812
+- [이미지 뷰어](https://github.com/zzsza/python-simple-application/tree/master/02-image-viewer) : 180813 ~ 180819
 - 슈팅 게임
 
