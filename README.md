@@ -5,8 +5,6 @@
 
 
 ## Application List
----
-
 - [인스타그램 자동 좋아요](https://github.com/zzsza/python-simple-application/tree/master/01-instagram-auto-like)
 - [이미지 뷰어](https://github.com/zzsza/python-simple-application/tree/master/02-image-viewer)
 - 슈팅 게임
