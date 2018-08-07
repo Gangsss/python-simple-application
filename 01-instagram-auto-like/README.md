@@ -13,11 +13,12 @@
 - 인스타그램 타임라인 좋아요
 - 인스타그램 특정 해시태그 좋아요 
 - 인스타그램 특정 지역 좋아요
-- 특정 댓글에 자동으로 답글 달기
-	- 예시 : 와 사진이 정말 이뻐요 -> 감사합니다 
 
 
 ### 심화
+- 내 타임라인의 특정 댓글에 자동으로 답글 달기
+	- 예시 : 와 사진이 정말 이뻐요 -> 감사합니다
+	- 위치는 [https://www.instagram.com/explore/locations/](https://www.instagram.com/explore/locations/)에서 탐색해서 임의로 주소 넣어서 Test 
 - 서버(AWS EC2, GCP Compute Engine)에 Cronjob 설정
 - AWS Lambda를 사용해 Cronjob 설정 
 - 특정 댓글일 경우 답글 달기 개선 : 단순 로직이 아닌 딥러닝 모델 사용
