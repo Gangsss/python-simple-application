@@ -7,7 +7,8 @@
 - 마감일(일요일)에 몰아쳐서 하지 말고 중간 중간 코드를 올려서 피드백 받기
 
 ## Application List
-- [인스타그램 자동 좋아요](https://github.com/zzsza/python-simple-application/tree/master/01-instagram-auto-like) : 180806 ~ 180812
-- [이미지 뷰어](https://github.com/zzsza/python-simple-application/tree/master/02-image-viewer) : 180813 ~ 180819
+- [인스타그램 자동 좋아요](https://github.com/zzsza/python-simple-application/tree/master/01-instagram-auto-like) : 180806 ~ 180826
+    - 180820 ~ 180826 : 기존 코드 리팩토링, 함수화, 클래스화?
+- [이미지 뷰어](https://github.com/zzsza/python-simple-application/tree/master/02-image-viewer) : Unknown
 - 슈팅 게임
 
